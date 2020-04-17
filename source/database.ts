@@ -15,10 +15,6 @@ export class Database {
 		protected onConnect?: () => void
 	) { 
 		this.socket = new WebSocket(this.protocol.concat(this.host, ':', this.port.toString()))
-		this.init()
-	}
-
-	private async init() {
 		this.socket.on('message', (e) => {
 			// @ts-ignore
 			const result  = JSON.parse(e)
