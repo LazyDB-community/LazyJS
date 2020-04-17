@@ -16,12 +16,12 @@ this project is a WIP and in prealpha and therefore unsuitable for production, f
 
 **NPM**
 ```
-npm i @lazydb/client
+npm i @lazydb/lazyjs
 ```
 
 **Yarn**
 ```
-yarn add @lazydb/client
+yarn add @lazydb/lazyjs
 ```
 
 ## Documentation
