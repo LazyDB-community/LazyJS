@@ -1,0 +1,1 @@
+export { Database as LazyDB } from './database'

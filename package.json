@@ -1,0 +1,23 @@
+{
+	"name": "@lazydb/lazyjs",
+	"version": "0.0.1",
+	"main": "index.js",
+	"repository": "https://github.com/LazyDB-community/Client.git",
+	"author": "itzezc <chirub@foretag.co>",
+	"license": "MIT",
+	"scripts": {
+		"test": "npx jest",
+		"test:debug": "npx jest --detectOpenHandles"
+	},
+	"devDependencies": {
+		"@types/jest": "^25.2.1",
+		"@types/node": "^13.11.1",
+		"@types/ws": "^7.2.4",
+		"jest": "^25.3.0",
+		"ts-jest": "^25.4.0",
+		"typescript": "^3.8.3"
+	},
+	"dependencies": {
+		"ws": "^7.2.3"
+	}
+}
