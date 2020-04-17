@@ -1,6 +1,6 @@
 {
 	"name": "@lazydb/lazyjs",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "source/index.ts",
 	"repository": "https://github.com/LazyDB-community/Client.git",
 	"author": "itzezc <chirub@foretag.co>",

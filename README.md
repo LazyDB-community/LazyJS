@@ -2,6 +2,9 @@
 
 LazyDB TypeScript / JavaScript client for NodeJS and the Browser.
 
+## About
+Feel free to join us on [Discord](https://discord.gg/ruzmwh9)
+
 ### NOTE
 ---
 
